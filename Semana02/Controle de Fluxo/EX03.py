@@ -4,26 +4,21 @@ identificador = input('Digite o código do seu identificador: ')
 
 
 if len(identificador) != 7:
-    print(
-        f'O identificador "{identificador}" é INVÁLIDO.')
+    print(f'O identificador "{identificador}" é INVÁLIDO.')
 
 elif not identificador.startswith('BR'):
-    print(
-        f'O identificador "{identificador}" é INVÁLIDO.')
+    print(f'O identificador "{identificador}" é INVÁLIDO.')
 
 elif not identificador.endswith('X'):
-    print(
-        f'O identificador "{identificador}" é INVÁLIDO.')
+    print(f'O identificador "{identificador}" é INVÁLIDO.')
 else:
     part_numerica = identificador[2:6]
 
     if not part_numerica.isdigit():
-        print(
-            f'O identificador "{identificador}" é INVÁLIDO.')
+        print(f'O identificador "{identificador}" é INVÁLIDO.')
     else:
         numero = int(part_numerica)
         if 1 <= numero <= 9999:
             print(f'O identificador "{identificador}" é VÁLIDO')
         else:
-            print(
-                f'O identificador "{identificador}" é INVÁLIDO.')
+            print(f'O identificador "{identificador}" é INVÁLIDO.')
