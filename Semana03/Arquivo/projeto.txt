@@ -1,4 +1,0 @@
-====== DADOS DO PROJETO ========
-123456,Motivo das galinhas botarem ovos,Maria Amelia
-654321,Arvores e Plantas,Bruno Henrique
-951357,Casa casinha e casas,Paula Lima
