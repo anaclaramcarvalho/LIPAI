@@ -1,0 +1,6 @@
+SP000001,Maria da Silva,maria@email.com
+SP000002,Pedro Gomes,pedro@email.com
+SP000003,João Santos,joao@email.com
+SP000004,Ana Souza,ana.souza@provedor.com
+SP000005,Carlos Oliveira,carlos.oliveira@escola.br
+SP000006,Beatriz Lopes,bealopes@webmail.com
