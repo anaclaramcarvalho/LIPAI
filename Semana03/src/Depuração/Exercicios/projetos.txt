@@ -1,3 +1,0 @@
-101,Desenvolvimento Web,Marcos Oliveira
-102,Analise de Dados,Fernanda Costa
-103,Seguranca da Informacao,Ricardo Souza

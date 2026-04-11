@@ -1,3 +1,0 @@
-SP000001,Maria da Silva,maria@email.com
-SP000002,Pedro Gomes,pedro@email.com
-SP000003,João Santos,joao@email.com
